@@ -1,0 +1,11 @@
+iFCB
+Copyright (c) 2002-2026 Wabbit Wanch Design. All rights reserved.
+
+iFCB is freeware. You may download it, use it and share copies of it for free.
+
+You may not:
+* sell iFCB, or charge for it in any way
+* bundle it with anything that is sold
+* change it, or pass it off as your own
+
+iFCB is provided as is, without warranty of any kind. Use it at your own risk.
