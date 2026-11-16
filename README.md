@@ -4,6 +4,8 @@ A Mac editor for the Behringer FCB1010 MIDI foot controller. Free.
 
 The successor to iFCB 2.5 by Wabbit Wanch Design.
 
+<img width="800" alt="iFCB_App" src="https://github.com/user-attachments/assets/9580821b-56d3-49af-8426-27e19aafdbab" />
+
 ## Requirements
 
 * macOS 15.7 or later (Apple Silicon or Intel)
