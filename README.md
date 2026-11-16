@@ -13,7 +13,7 @@ The successor to iFCB 2.5 by Wabbit Wanch Design.
 
 1. Download the latest `iFCB` zip from [Releases](../../releases) and unzip it.
 2. Move `iFCB.app` to Applications.
-3. Open it. macOS will say it can't check the developer. Click **Done**.
+3. Open it. macOS Gatekeeper will refuse to open the app. Click **Done**.
 4. Go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to iFCB.
 
 You only need to do this once.
